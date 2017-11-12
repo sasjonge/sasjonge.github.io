@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Winter 2015: Research Assistant
+* Winter 2017: Student Research Assistant 
   * University of Bremen
   * Duties included: Tagging issues
   * Supervisor: Professor Git
