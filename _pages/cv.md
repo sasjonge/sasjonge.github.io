@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, University of Bremen
   * Date: September 2016
-  * Thesis: 
+  * Thesis: Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität
   * Advisor: Prof. Dr. Thomas Schneider
 
 Work experience
