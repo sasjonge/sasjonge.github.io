@@ -1,10 +1,10 @@
 ---
-title: "Practical Computer Science 2"
+title: "Tutorial: Praktische Informatik 2 (Practical Computer Science 2)"
 collection: teaching
 type: "Tutorial"
 permalink: /teaching/2016-winter-teaching-1
 venue: "University of Bremen"
-date: 2016-4-01
+date: Summer 2016
 location: "Bremen, Germany"
 ---
 
