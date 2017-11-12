@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Sascha Jongebloed"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Science student at the University of Bremen"
   location         : "Location"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "sasjonge@uni-bremen.de"
   uri              :
   bitbucket        :
   codepen          :
