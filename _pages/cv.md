@@ -16,9 +16,8 @@ Education
 Work experience
 ======
 * Winter 2017: Student Research Assistant 
-  * University of Bremen
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Institute of Artificial Intelligence, Bremen
+  * Duties included: 
   
 Skills
 ======
@@ -29,17 +28,17 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+%Publications
+%======
+%  <ul>{% for post in site.publications %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+%Talks
+%======
+%  <ul>{% for post in site.talks %}
+%    {% include archive-single-talk-cv.html %}
+%  {% endfor %}</ul>
   
 Teaching
 ======
