@@ -17,13 +17,13 @@ Education
 ======
 * **B.Sc. in Computer Science, University of Bremen**
   * **Date**: September 2016
-  * **Thesis**: Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität
+  * **Thesis**: <p style="text-decoration:underline;"><a href="/bthesis.html">Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität</a></p>
   * **Advisor**: Prof. Dr. Thomas Schneider
 
 Work experience
 ======
 * **Since Winter 2017: Student Research Assistant** 
-  * Institute of Artificial Intelligence, Bremen
+  * [Institute of Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
     * Working with Aldebaran's robot [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper)
     * Developing a knowledge based dialog system 
@@ -54,3 +54,5 @@ Skills
 
 Research Interests
 ======
+
+

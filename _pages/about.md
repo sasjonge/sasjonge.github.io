@@ -13,4 +13,4 @@ I am a master student in computer science at the University of Bremen, where I r
 The focus of my studies lies on the field of artificial intelligence, especially in the topics:
 
 - Knowledge Representation and Reasoning
-- Machine Learning
+- Data Science
