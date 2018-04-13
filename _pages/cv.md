@@ -50,9 +50,7 @@ Skills
   * **KnowRob**: Advanced
   * **Robot Operating System (ROS)**: Advanced
   * **Protege**: Advanced
-* **Operating systems**
-  * **Linux**
-  * **Windows XP/7/10**
+* **Operating systems**: Linux, Windows
 
 Research Interests
 ======
