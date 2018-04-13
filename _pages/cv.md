@@ -22,21 +22,37 @@ Education
 
 Work experience
 ======
-* Since Winter 2017: Student Research Assistant 
+* **Since Winter 2017: Student Research Assistant** 
   * Institute of Artificial Intelligence, Bremen
-  * Duties included: 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Duties included:
+    * Working with Aldebaran's robot [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper)
+    * Developing a knowledge based dialog system 
+    * Developing bridges between Pepper and [openEASE](https://www.open-ease.org/)
+    * Minor code maintanence for [KnowRob](http://www.knowrob.org/) and openEASE
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* **Programming**
+  * **Prolog**: Advanced
+  * **Java**: Advanced
+  * **Python**: Advanced
+  * **C++**: Intermediate
+  * **Lisp**: Beginner
+  * **Dart**: Beginner
+* **Tools and Frameworks**
+  * **OWL**: Advanced
+  * **KnowRob**: Advanced
+  * **Robot Operating System (ROS)**: Advanced
+  * **Protege**: Advanced
+* **Operating systems**
+  * **Linux**
+  * **Windows XP/7/10**
+
+Research Interests
+======
