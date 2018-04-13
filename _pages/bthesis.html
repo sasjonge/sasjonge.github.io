@@ -5,8 +5,17 @@ permalink: /bthesis.html
 author_profile: true
 ---
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 Abstract
 ======
+
+In his thesis ``Complexity of Subsumtion in Extensions of $\EL$’’ \citet{haase07} discussed various extensions of the description logic $\EL$. The thesis shows that subsumption is intractable for, amongst others, the extension by global functionality ($\ELFF$) wrt. acyclic TBoxes.
+
+This thesis shows, that it is possible to reduce subsumtion for $\ELFF$, and to implement a reasoner to decide subsumption, using a SAT-Solver for the ``hard’’ part of the decision. In the first part we describe the reduction. Afterwards we discuss the implementation of the reasoner, which can decide single subsumptions with the help of SAT-Solver. Finally we compare the runtime of our implemented Reasoner with Tableau-based and consequence-based Reasoner.
+
+Further optimizations, that are described in this thesis, are needed to use the implemented reasoner for the classification of an ontology in $\ELFF$.
+
 
 In seiner Thesis ``Complexity of Subsumtion in Extensions of $\EL$’’ hat \citet{haase07} verschiedene Erweiterungen der Beschreibungslogik $\EL$ diskutiert und dabei unter anderem für die Erweiterung um globale Fuktionalität ($\ELFF$) von Rollen gezeigt, dass Subsumtion bezüglich azyklischen TBoxen Co-NP-vollständig ist.
 
@@ -16,8 +25,3 @@ Um den implementierten Reasoner zur vollständigen Klassifikation einer Ontologi
 
 \vspace{0.5cm} \subsection*{English}
 
-In his thesis ``Complexity of Subsumtion in Extensions of $\EL$’’ \citet{haase07} discussed various extensions of the description logic $\EL$. The thesis shows that subsumption is intractable for, amongst others, the extension by global functionality ($\ELFF$) wrt. acyclic TBoxes.
-
-This thesis shows, that it is possible to reduce subsumtion for $\ELFF$, and to implement a reasoner to decide subsumption, using a SAT-Solver for the ``hard’’ part of the decision. In the first part we describe the reduction. Afterwards we discuss the implementation of the reasoner, which can decide single subsumptions with the help of SAT-Solver. Finally we compare the runtime of our implemented Reasoner with Tableau-based and consequence-based Reasoner.
-
-Further optimizations, that are described in this thesis, are needed to use the implemented reasoner for the classification of an ontology in $\ELFF$.
