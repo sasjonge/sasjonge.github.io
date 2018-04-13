@@ -1,15 +1,14 @@
 ---
-title: "Tutorial: Theoretische Informatik 2 (Theoretical Computer Science 2)"
+title: "Tutorial: Theoretical Computer Science 2 (Theoretische Informatik 2)"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2017-summer-teaching-4
+permalink: /teaching/2017-summer-teaching
 venue: "University of Bremen"
-date: Summer 2017
+date: 2017-04-01
 location: "Bremen, Germany"
 ---
 
-TODO: Description
-
+The course Theoretical Computer Science 2 deals with the fundamentals of computability and complexity.
 Further details (in german) can be found on the corresponding [website](http://www.informatik.uni-bremen.de/tdki/lehre/ss17/theoinf/).
 
 

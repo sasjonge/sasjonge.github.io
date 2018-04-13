@@ -1,14 +1,14 @@
 ---
-title: "Tutorial: Theoretische Informatik 1 (Theoretical Computer Science 1)"
+title: "Tutorial: Theoretical Computer Science 1 (Theoretische Informatik 1)"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2016-winter-teaching-3
+permalink: /teaching/2016-winter-teaching
 venue: "University of Bremen"
-date: Winter 2016
+date: 2016-10-01
 location: "Bremen, Germany"
 ---
 
-The course Theoretical Computer Science 1 deals with the fundamentals of automaton theory and formal language. Further details (in german) can be found on the corresponding [website](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/).
+The course Theoretical Computer Science 1 deals with the fundamentals of automaton theory and formal languages. Further details (in german) can be found on the corresponding [website](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/).
 
 Tasks
 ======

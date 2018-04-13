@@ -1,14 +1,14 @@
 ---
-title: "Tutorial: Praktische Informatik 2 (Practical Computer Science 2)"
+title: "Tutorial: Practical Computer Science 2: Algorithms and Data Structures (Praktische Informatik 2: Algorithmen und Datenstrukturen)"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2016-winter-teaching-1
+permalink: /teaching/2016-summer-teaching
 venue: "University of Bremen"
 date: 2016-4-01
 location: "Bremen, Germany"
 ---
 
-TODO: Description
+The course Practical Computer Science 2 covers fundamental algorithms (e.g. search and sort algorithms) and data structures (e.g. Maps). Further details (in german) can be found in the [module handbook](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/) of the computer science program of the University of Bremen.
 
 Tasks
 ======

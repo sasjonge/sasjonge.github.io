@@ -1,14 +1,14 @@
 ---
-title: "Tutorial: Praktische Informatik 1 (Practical Computer Science 1)"
+title: "Tutorial: Practical Computer Science 1: Imperative Programming and Object Orientation (Praktische Informatik 1: Imperative Programmierung und Objektorientierung)"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2015-winter-teaching-1
+permalink: /teaching/2015-winter-teaching
 venue: "University of Bremen"
-date: Winter 2015
+date: 2015-10-01
 location: "Bremen, Germany"
 ---
 
-TODO: Description
+The course Practical Computer Science 1 deals with the foundations of imperative programming and object orientation. Further details (in german) can be found in the [module handbook](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/) of the computer science program of the University of Bremen.
 
 Tasks
 ======
