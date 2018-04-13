@@ -9,7 +9,7 @@ season: "Summer"
 location: "Bremen, Germany"
 ---
 
-The course Practical Computer Science 2 covers fundamental algorithms (e.g. search and sort algorithms) and data structures (e.g. Maps). Further details (in german) can be found in the [module handbook](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/) of the computer science program of the University of Bremen.
+The course Practical Computer Science 2 covers fundamental algorithms (e.g. search and sort algorithms) and data structures (e.g. maps). Further details (in german) can be found in the [module handbook](http://www.informatik.uni-bremen.de/tdki/lehre/ws16/theoinf/) of the computer science program of the University of Bremen.
 
 Tasks
 ======
