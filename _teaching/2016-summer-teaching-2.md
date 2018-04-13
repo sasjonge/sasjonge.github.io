@@ -5,6 +5,7 @@ type: "Tutorial"
 permalink: /teaching/2016-summer-teaching
 venue: "University of Bremen"
 date: 2016-4-01
+season: "Summer"
 location: "Bremen, Germany"
 ---
 
