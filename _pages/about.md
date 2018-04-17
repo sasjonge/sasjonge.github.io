@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in computer science at the University of Bremen, where I received my B.Sc in 2016.
+I am a master student in computer science at the University of Bremen, where I received my B.Sc. in 2016.
 
 The focus of my studies lies on the field of artificial intelligence, especially in the topics:
 
 - Knowledge Representation and Reasoning
 - Data Science
+- Logic Programming

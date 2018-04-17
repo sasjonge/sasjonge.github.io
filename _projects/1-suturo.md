@@ -1,7 +1,9 @@
 ---
 title: "Student Project: SUTURO - sudo tidy up my room"
-excerpt: "Creating a café using several robots <br/>[![Suturo](https://img.youtube.com/vi/4isQLMECUrU/0.jpg)](https://www.youtube.com/watch?v=4isQLMECUrU)"
+excerpt: "Creating a café using several robots <br/>[![Suturo](https://img.youtube.com/vi/4isQLMECUrU/0.jpg)](/projects/suturo.html)"
 collection: projects
+date: 2017-10-01
+permalink: projects/suturo.html
 ---
 
 [![Suturo](https://img.youtube.com/vi/4isQLMECUrU/0.jpg)](https://www.youtube.com/watch?v=4isQLMECUrU)

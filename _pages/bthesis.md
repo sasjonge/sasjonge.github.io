@@ -1,11 +1,9 @@
 ---
-layout: archive
 title: "Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität"
 permalink: /bthesis.html
-author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="https://github.com/sasjonge/sasjonge.github.io/blob/master/files/ba_report.pdf">Download the thesis here!</a></p>
+[Download the thesis here!](https://github.com/sasjonge/sasjonge.github.io/raw/master/files/ba_report.pdf)
 
 Abstract
 ======
