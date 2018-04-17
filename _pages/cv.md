@@ -54,4 +54,7 @@ Skills
 Research Interests
 ======
 
-
+* **Knowledge Representation and Reasoing**
+  * Description Logic
+* **Data Science**
+* **Logic Programming**
