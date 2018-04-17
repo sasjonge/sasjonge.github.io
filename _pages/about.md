@@ -17,4 +17,4 @@ The focus of my studies lies on the field of artificial intelligence, especially
 - Data Science
 - Logic Programming
 
-This website is still work-in-progress. Do not hesitate to contact me if you have questions or suggestions.
+This website is still work in progress. Do not hesitate to contact me if you have questions or suggestions.
