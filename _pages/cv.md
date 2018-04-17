@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * **Since Winter 2017: Student Research Assistant** 
-  * [Institute of Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
+  * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
     * Working with Aldebaran's robot [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper)
     * Developing a knowledge based dialog system 
