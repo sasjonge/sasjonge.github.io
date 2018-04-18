@@ -1,7 +1,7 @@
 ---
-title: "Tutorial: Theoretical Computer Science 2 (Theoretische Informatik 2)"
+title: "Tutor: Theoretical Computer Science 2 (Theoretische Informatik 2)"
 collection: teaching
-type: "Tutorial"
+type: "Tutor"
 permalink: /teaching/2017-summer-teaching
 venue: "University of Bremen"
 date: 2017-04-01

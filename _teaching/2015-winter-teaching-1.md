@@ -1,7 +1,7 @@
 ---
-title: "Tutorial: Practical Computer Science 1: Imperative Programming and Object Orientation (Praktische Informatik 1: Imperative Programmierung und Objektorientierung)"
+title: "Tutor: Practical Computer Science 1: Imperative Programming and Object Orientation (Praktische Informatik 1: Imperative Programmierung und Objektorientierung)"
 collection: teaching
-type: "Tutorial"
+type: "Tutor"
 permalink: /teaching/2015-winter-teaching
 venue: "University of Bremen"
 date: 2015-10-01

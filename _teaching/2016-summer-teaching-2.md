@@ -1,7 +1,7 @@
 ---
-title: "Tutorial: Practical Computer Science 2: Algorithms and Data Structures (Praktische Informatik 2: Algorithmen und Datenstrukturen)"
+title: "Tutor: Practical Computer Science 2: Algorithms and Data Structures (Praktische Informatik 2: Algorithmen und Datenstrukturen)"
 collection: teaching
-type: "Tutorial"
+type: "Tutor"
 permalink: /teaching/2016-summer-teaching
 venue: "University of Bremen"
 date: 2016-4-01

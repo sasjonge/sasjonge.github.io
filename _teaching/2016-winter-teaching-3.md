@@ -1,7 +1,7 @@
 ---
-title: "Tutorial: Theoretical Computer Science 1 (Theoretische Informatik 1)"
+title: "Tutor: Theoretical Computer Science 1 (Theoretische Informatik 1)"
 collection: teaching
-type: "Tutorial"
+type: "Tutor"
 permalink: /teaching/2016-winter-teaching
 venue: "University of Bremen"
 date: 2016-10-01
