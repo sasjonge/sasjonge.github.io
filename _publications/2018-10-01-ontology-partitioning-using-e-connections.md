@@ -1,7 +1,7 @@
 ---
 title: "Ontology Partitioning Using E-Connections Revisited"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2018-10-econnections
 excerpt: 'We revisit the technique for partitioning ontologies using E-connections introduced by Cuenca Grau et al. (2006).'
 date: 2018-10-01
 venue: 'In Proc. 31st DL, vol. 2211 of CEUR'
