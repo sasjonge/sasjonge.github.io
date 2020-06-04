@@ -19,6 +19,11 @@ Education
   * **Thesis**: [Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität](/bthesis.html)
   * **Advisor**: Prof. Dr. Thomas Schneider
 
+* **M.Sc. in Computer Science, University of Bremen**
+  * **Date**: May 2020
+  * **Thesis**: [Ontology Partitioning using E-Connections: Revisited](/mthesis.html)
+  * **Advisor**: Prof. Dr. Thomas Schneider
+
 Work experience
 ======
 * **Winter 2017 - Winter 2018: Student Research Assistant** 
@@ -54,7 +59,7 @@ Skills
 Research Interests
 ======
 
-* **Knowledge Representation and Reasoing**
+* **Knowledge Representation and Reasoning**
   * Description Logic
 * **Data Science**
 * **Logic Programming**
