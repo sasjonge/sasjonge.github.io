@@ -33,6 +33,17 @@ Work experience
     * Developing a knowledge based dialog system 
     * Developing bridges between Pepper and [openEASE](https://www.open-ease.org/)
     * Minor code maintanence for [KnowRob](http://www.knowrob.org/) and openEASE
+* **March 2020 - May 2020: Student Research Assistant** 
+  * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
+  * Duties included:
+    * Minor code maintanence and development of unit tests for [KnowRob](http://www.knowrob.org/)
+* **Since July 2020: Research Assistant**
+  * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
+  * Duties included:
+    * Investigation and development of approaches for the knowledge-based robot control.
+    * Maintanence and development of the knowledge processing system [KnowRob](http://www.knowrob.org/)
+    * Maintanence and development of the cloud-based Knowledge Service [openEASE](http://www.open-ease.org/)
+    * collaboration in the acquisition of third-party funded projects
 
 Teaching
 ======
@@ -48,7 +59,6 @@ Skills
   * **Python**: Advanced
   * **C++**: Intermediate
   * **Lisp**: Beginner
-  * **Dart**: Beginner
 * **Tools and Frameworks**
   * **OWL**: Advanced
   * **KnowRob**: Advanced
