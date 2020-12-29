@@ -6,5 +6,5 @@ date: 2020-09-01
 permalink: projects/knowrob.html
 ---
 
-[![KnowRob](http://knowrob.org/_media/blog/knowledge-components3.png)](http://knowrob.org)
+[![KnowRob](http://knowrob.org/_media/blog/knowledge-components3.png = 250x)](http://knowrob.org)
 
