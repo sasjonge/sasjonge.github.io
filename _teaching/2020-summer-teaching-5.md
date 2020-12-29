@@ -9,7 +9,7 @@ season: "Winter"
 location: "Bremen, Germany"
 ---
 
-The project SUTURO is a master project at the University of Bremen. The goal of the project is to use a robot for household tasks
+The project SUTURO is a master project at the University of Bremen. The goal of the project is to use a robot for household tasks.
 Further details (in german) can be found on the corresponding [website](https://ai.uni-bremen.de/teaching/pr-suturo-ws20).
 
 
