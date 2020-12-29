@@ -1,6 +1,6 @@
 ---
 title: "Student Project: Season 4"
-excerpt: "A puzzle game developed in Unity<br/>[![Suturo](/images/season4.jpeg)](/projects/season4.html)"
+excerpt: "A puzzle game developed in Unity<br/><a href=\"/projects/season4.html\"><img src=\"/images/season4.jpeg\" alt=\"Season4\" width=\"480\"/></a>"
 collection: projects
 date: 2017-07-04
 permalink: projects/season4.html
