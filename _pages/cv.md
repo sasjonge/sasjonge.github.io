@@ -32,6 +32,7 @@ Work experience
     * Investigation and development of approaches for the knowledge-based robot control.
     * Maintanence and development of the knowledge processing system [KnowRob](http://www.knowrob.org/)
     * Maintanence and development of the cloud-based Knowledge Service [openEASE](http://www.open-ease.org/)
+    * Supervision of student assistants
     * Collaboration in the acquisition of third-party funded projects
 * **April 2020 - Juni 2020: Student Research Assistant** 
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
