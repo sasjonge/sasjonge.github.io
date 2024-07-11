@@ -5,7 +5,7 @@ type: "Tutor"
 permalink: /teaching/2020-winter-teaching
 venue: "University of Bremen"
 date: 2020-10-01
-season: "Winter and Summer"
+season: "Winter"
 location: "Bremen, Germany"
 ---
 

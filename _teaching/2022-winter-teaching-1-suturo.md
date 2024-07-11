@@ -5,7 +5,7 @@ type: "Tutor"
 permalink: /teaching/2022-winter-teaching-suturo
 venue: "University of Bremen"
 date: 2022-10-01
-season: "Winter and Summer"
+season: "Winter"
 location: "Bremen, Germany"
 ---
 
