@@ -5,12 +5,12 @@ type: "Tutor"
 permalink: /teaching/2021-winter-teaching-suturo
 venue: "University of Bremen"
 date: 2021-10-01
-season: "Winter"
+season: "Winter and Summer"
 location: "Bremen, Germany"
 ---
 
-The project SUTURO is a bachelor project at the University of Bremen. The goal of the project is to use a robot for household tasks.
-Further details (in german) can be found on the corresponding [website](https://ai.uni-bremen.de/teaching/pr-suturo-ws20).
+The Bachelor Project SUTURO, running from Winterterm 2021/2022 to Summerterm 2022, aimed to develop intelligent robot systems capable of performing everyday tasks like tidying up rooms. The project focused on enhancing robots' perceptual, control, and behavioral abilities through knowledge-based approaches.
+Further details (in german) can be found on the corresponding [website](https://ai.uni-bremen.de/teaching/pr-suturo-ws21).
 
 
 Tasks
