@@ -41,7 +41,7 @@ Work experience
 * **October 2017 - November 2018: Student Research Assistant** 
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
-    * Working with Aldebaran's robot [Pepper](https://www.ald.softbankrobotics.com/en/robots/pepper)
+    * Working with Aldebaran's robot [Pepper](https://www.aldebaran.com/en/pepper)
     * Developing a knowledge based dialog system 
     * Developing bridges between Pepper and [openEASE](https://www.open-ease.org/)
     * Minor code maintanence for [KnowRob](http://www.knowrob.org/) and openEASE
