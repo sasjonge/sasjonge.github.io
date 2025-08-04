@@ -12,23 +12,21 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b></span></p>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">sascha at jongebloed.email | <a href="https://www.jongebloed.me">jongebloed.me</a></span></p>
 
----
-
-## Skills
+Skills
+======
 
 Tools/Frameworks: Docker, CI/CD, Systemadministration, Cloud-Infrastrukturen, ROS\\
 
 Programmierung: Python, Java, C/C++, Prolog\\
 
-Datenbanken:SQL, MongoDB\\
+Datenbanken: SQL, MongoDB\\
 
-Betriebssysteme:Ubuntu, Arch Linux, Windows\\
+Betriebssysteme: Ubuntu, Arch Linux, Windows\\
 
 Sonstiges: Internationale Konferenzerfahrung (Vorträge, Tutorials, Messestände)
 
----
-
-## Work Experience
+Work Experience
+======
 
 * **Since July 2020: Research Assistant**
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
@@ -46,28 +44,17 @@ Sonstiges: Internationale Konferenzerfahrung (Vorträge, Tutorials, Messestände
     * Assisted in developing and testing research software
     * Maintained infrastructure components in ongoing EU research projects
 
----
+Projects
+======
 
-## Projects
+- **Virtual Research Building (VRB)** — [vrb.ease-crc.org](https://vrb.ease-crc.org)  
+- **openEASE** — [data.open-ease.org](https://data.open-ease.org)  
+- **KnowRob** — [github.com/knowrob/knowrob](https://github.com/knowrob/knowrob)  
 
-### Virtual Research Building (VRB)  
-[vrb.ease-crc.org](https://vrb.ease-crc.org)  
-- Developed containerized applications (Docker, Jupyter) for scientific software environments  
-- Integrated these into JupyterHub and Binder; supported multiple research groups in deployment and usage  
+More about projects can be found at [jongebloed.me/projects](https://jongebloed.me/projects/)
 
-### openEASE – Cloud-based knowledge service for robotics  
-[data.open-ease.org](https://data.open-ease.org)  
-- Built and maintained a Docker-based infrastructure with Nginx as a reverse proxy  
-- Provided scalable knowledge services for international research groups  
-
-### KnowRob – Knowledge processing for robotic applications  
-[github.com/knowrob/knowrob](https://github.com/knowrob/knowrob)  
-- Developed core modules in C++ and Prolog for knowledge-based robot control  
-- Integrated complex systems using ROS and databases (MongoDB)  
-
----
-
-## Private Projects
+Private Projects
+======
 
 I run multiple self-hosted servers using Linux and Docker:
 
@@ -75,9 +62,8 @@ I run multiple self-hosted servers using Linux and Docker:
 - Stack: Portainer, Caddy (reverse proxy), Prometheus, Grafana  
 - Focus: service automation, secure backups, and monitoring
 
----
-
-## Education
+Education
+======
 
 * **M.Sc. in Computer Science, University of Bremen**
   * **Date**: May 2020
@@ -89,9 +75,8 @@ I run multiple self-hosted servers using Linux and Docker:
   * **Thesis**: [Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität](/bthesis.html)
   * **Advisor**: Prof. Dr. Thomas Schneider
 
----
-
-## Teaching
+Teaching
+======
 
 A complete list of lectures and supervision is available on [jongebloed.me/teaching](https://jongebloed.me/teaching/)
 
@@ -100,8 +85,7 @@ Highlights:
 - Tutor: "Introduction to AI" (2024)
 - Co-supervisor: “SUTURO” bachelor/master project (since 2020)
 
----
-
-## Publications
+Publications
+======
 
 An overview of my academic publications can be found at [jongebloed.me/publications](https://jongebloed.me/publications)
