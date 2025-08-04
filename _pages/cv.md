@@ -15,15 +15,15 @@ redirect_from:
 Skills
 ======
 
-Tools/Frameworks: Docker, CI/CD, Systemadministration, Cloud-Infrastrukturen, ROS\\
+Tools/Frameworks: Docker, CI/CD, System Administration, Cloud Infrastructures, ROS\\
 
-Programmierung: Python, Java, C/C++, Prolog\\
+Programming: Python, Java, C/C++, Prolog\\
 
-Datenbanken: SQL, MongoDB\\
+Databases: SQL, MongoDB\\
 
-Betriebssysteme: Ubuntu, Arch Linux, Windows\\
+Operating Systems: Ubuntu, Arch Linux, Windows\\
 
-Sonstiges: Internationale Konferenzerfahrung (Vorträge, Tutorials, Messestände)
+Other: International conference experience (presentations, tutorials, booth demonstrations)
 
 Work Experience
 ======
@@ -44,6 +44,19 @@ Work Experience
     * Assisted in developing and testing research software
     * Maintained infrastructure components in ongoing EU research projects
 
+Education
+======
+
+* **M.Sc. in Computer Science, University of Bremen**
+  * **Date**: May 2020
+  * **Thesis**: [Ontology Partitioning using E-Connections: Revisited](/mthesis.html)
+  * **Advisor**: Prof. Dr. Thomas Schneider
+
+* **B.Sc. in Computer Science, University of Bremen**
+  * **Date**: September 2016
+  * **Thesis**: [Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität](/bthesis.html)
+  * **Advisor**: Prof. Dr. Thomas Schneider
+
 Projects
 ======
 
@@ -61,19 +74,6 @@ I run multiple self-hosted servers using Linux and Docker:
 - Applications: NextCloud, DokuWiki, HomeAssistant  
 - Stack: Portainer, Caddy (reverse proxy), Prometheus, Grafana  
 - Focus: service automation, secure backups, and monitoring
-
-Education
-======
-
-* **M.Sc. in Computer Science, University of Bremen**
-  * **Date**: May 2020
-  * **Thesis**: [Ontology Partitioning using E-Connections: Revisited](/mthesis.html)
-  * **Advisor**: Prof. Dr. Thomas Schneider
-
-* **B.Sc. in Computer Science, University of Bremen**
-  * **Date**: September 2016
-  * **Thesis**: [Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität](/bthesis.html)
-  * **Advisor**: Prof. Dr. Thomas Schneider
 
 Teaching
 ======
