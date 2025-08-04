@@ -16,42 +16,35 @@ redirect_from:
 
 ## Skills
 
-**Tools/Frameworks**
+Tools/Frameworks: Docker, CI/CD, Systemadministration, Cloud-Infrastrukturen, ROS\\
 
-Docker, CI/CD, Systemadministration, Cloud-Infrastrukturen, ROS\\
+Programmierung: Python, Java, C/C++, Prolog\\
 
-**Programmierung** 
+Datenbanken:SQL, MongoDB\\
 
-Python, Java, C/C++, Prolog\\
-**Datenbanken** 
+Betriebssysteme:Ubuntu, Arch Linux, Windows\\
 
-SQL, MongoDB\\
-**Betriebssysteme** 
-
-Ubuntu, Arch Linux, Windows\\
-**Sonstiges** 
-
-Internationale Konferenzerfahrung (Vorträge, Tutorials, Messestände)
+Sonstiges: Internationale Konferenzerfahrung (Vorträge, Tutorials, Messestände)
 
 ---
 
 ## Work Experience
 
-### Since July 2020 – Research Assistant  
-**AICOR – Institute for Artificial Intelligence, Bremen**
+* **Since July 2020: Research Assistant**
+  * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
+  * Duties included:
+    * Maintained and deployed scalable Docker environments (e.g. openEASE, VRB)
+    * Built CI/CD pipelines for internal robotics projects and semantic tools
+    * Supported colleagues in containerizing research prototypes and labs
+    * Presented work at international conferences (e.g. IROS 2023 Detroit, ERF 2024 Rimini, ERF 2025 Stuttgart)
+    * Supervised student developers and contributed to grant proposals
+    * Involved in teaching activities and curriculum development
 
-- Maintained and deployed scalable Docker environments (e.g. openEASE, VRB)
-- Built CI/CD pipelines for internal robotics projects and semantic tools
-- Supported colleagues in containerizing research prototypes and labs
-- Presented work at international conferences (e.g. IROS 2023 Detroit, ERF 2024 Rimini, ERF 2025 Stuttgart)
-- Supervised student developers and contributed to grant proposals
-- Involved in teaching activities and curriculum development
-
-### Student Research Assistant  
-**AICOR, Bremen** — April 2020 – June 2020, July 2017 – August 2018
-
-- Assisted in developing and testing research software
-- Maintained infrastructure components in ongoing EU research projects
+* **April 2020 – June 2020, July 2017 – August 2018: Student Research Assistant** 
+  * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
+  * Duties included:
+    * Assisted in developing and testing research software
+    * Maintained infrastructure components in ongoing EU research projects
 
 ---
 

@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "S_Jongebloed"
+  username               : #&twitter "S_Jongebloed"
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at the Institute for Artificial Intelligence, University of Bremen"
   location         : "Bremen"
-  employer         : "IAI, University of Bremen"
+  employer         : "AICOR, University of Bremen"
   googlescholar    : 
   email            : "sascha@jongebloed.de"
   email            :
@@ -102,17 +102,17 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/sascha-jongebloed-74778229b/
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #*twitter
   vine             :
   weibo            :
-  xing             :
+  xing             : https://www.xing.com/profile/Sascha_Jongebloed075928/web_profiles
   youtube          :
   wikipedia        :
 
