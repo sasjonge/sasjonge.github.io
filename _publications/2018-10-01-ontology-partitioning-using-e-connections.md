@@ -8,7 +8,9 @@ venue: 'In Proc. 31st DL, vol. 2211 of CEUR'
 citation: 'S. Jongebloed and T. Schneider: Ontology Partitioning Using E-Connections Revisited. In Proc. 31st DL, vol. 2211 of CEUR, 2018.'
 ---
 
-Abstract. We revisit the technique for partitioning ontologies using E-connections
+## Abstract
+
+We revisit the technique for partitioning ontologies using E-connections
 introduced by Cuenca Grau et al. (2006). We extend the underlying notions of
 E-connections and partitionings to the latest OWL 2 ontology language, with the
 exception of the universal role, which cannot be accommodated for reasons that we
