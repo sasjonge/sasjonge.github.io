@@ -15,13 +15,13 @@ redirect_from:
 Skills
 ======
 
-Tools/Frameworks: Docker, CI/CD, System Administration, Cloud Infrastructures, ROS\\
+Tools/Frameworks: Docker, CI/CD, System Administration, Cloud Infrastructures, ROS
 
-Programming: Python, Java, C/C++, Prolog\\
+Programming: Python, Java, C/C++, Prolog
 
-Databases: SQL, MongoDB\\
+Databases: SQL, MongoDB
 
-Operating Systems: Ubuntu, Arch Linux, Windows\\
+Operating Systems: Ubuntu, Arch Linux, Windows
 
 Other: International conference experience (presentations, tutorials, booth demonstrations)
 
@@ -36,7 +36,7 @@ Work Experience
     * Supported colleagues in containerizing research prototypes and labs
     * Presented work at international conferences (e.g. IROS 2023 Detroit, ERF 2024 Rimini, ERF 2025 Stuttgart)
     * Supervised student developers and contributed to grant proposals
-    * Involved in teaching activities and curriculum development
+    * Involved in teaching activities and student supervision
 
 * **April 2020 – June 2020, July 2017 – August 2018: Student Research Assistant** 
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
@@ -78,14 +78,14 @@ I run multiple self-hosted servers using Linux and Docker:
 Teaching
 ======
 
-A complete list of lectures and supervision is available on [jongebloed.me/teaching](https://jongebloed.me/teaching/)
+A complete list of lectures and supervision is available on [https://jongebloed.me/teaching/](teaching)
 
 Highlights:
-- Instructor: "Knowledge-Based Robot Control" (2021–2024)
+- Lecturer and Tutor: "AI-Based Robot Control" (2021–2024)
 - Tutor: "Introduction to AI" (2024)
 - Co-supervisor: “SUTURO” bachelor/master project (since 2020)
 
 Publications
 ======
 
-An overview of my academic publications can be found at [jongebloed.me/publications](https://jongebloed.me/publications)
+An overview of my academic publications can be found at [https://jongebloed.me/publications](publications)
