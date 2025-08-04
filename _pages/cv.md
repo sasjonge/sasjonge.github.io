@@ -64,7 +64,7 @@ Projects
 - **openEASE** — [data.open-ease.org](https://data.open-ease.org)  
 - **KnowRob** — [github.com/knowrob/knowrob](https://github.com/knowrob/knowrob)  
 
-More about projects can be found at [jongebloed.me/projects](https://jongebloed.me/projects/)
+More about projects can be found at [projects](https://jongebloed.me/projects/)
 
 Private Projects
 ======
@@ -78,7 +78,7 @@ I run multiple self-hosted servers using Linux and Docker:
 Teaching
 ======
 
-A complete list of lectures and supervision is available on [https://jongebloed.me/teaching/](teaching)
+A complete list of lectures and supervision is available on [teaching](https://jongebloed.me/teaching/)
 
 Highlights:
 - Lecturer and Tutor: "AI-Based Robot Control" (2021–2024)
@@ -88,4 +88,4 @@ Highlights:
 Publications
 ======
 
-An overview of my academic publications can be found at [https://jongebloed.me/publications](publications)
+An overview of my academic publications can be found at [publications](https://jongebloed.me/publications)
