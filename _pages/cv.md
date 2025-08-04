@@ -58,7 +58,7 @@ Private Projects
 
 I run multiple self-hosted servers using Linux and Docker:
 
-- Applications: NextCloud, DokuWiki, JupyterHub, HomeAssistant  
+- Applications: NextCloud, DokuWiki, HomeAssistant  
 - Stack: Portainer, Caddy (reverse proxy), Prometheus, Grafana  
 - Focus: service automation, secure backups, and monitoring
 
