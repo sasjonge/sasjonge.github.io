@@ -28,7 +28,7 @@ Other: International conference experience (presentations, tutorials, booth demo
 Work Experience
 ======
 
-* **Since July 2020: Research Assistant**
+* **July 2020 - September 2025: Research Assistant**
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
     * Maintained and deployed scalable Docker environments (e.g. openEASE, VRB)
