@@ -1,5 +1,5 @@
 ---
-title: "Co-supervisor: Master Project SUTURO"
+title: "Co-supervisor: Bachelor Project SUTURO"
 collection: teaching
 type: "Tutor"
 permalink: /teaching/2023-winter-teaching-suturo

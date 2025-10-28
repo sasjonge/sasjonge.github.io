@@ -83,7 +83,7 @@ A complete list of lectures and supervision is available on [teaching](https://j
 Highlights:
 - Lecturer and Tutor: "AI-Based Robot Control" (2021–2024)
 - Tutor: "Introduction to AI" (2024)
-- Co-supervisor: “SUTURO” bachelor/master project (since 2020)
+- Co-supervisor: “SUTURO” bachelor/master project (2020-2025)
 
 Publications
 ======
