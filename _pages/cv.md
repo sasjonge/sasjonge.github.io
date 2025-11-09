@@ -28,6 +28,9 @@ Other: International conference experience (presentations, tutorials, booth demo
 Work Experience
 ======
 
+* **Since November 2025: System Administrator**
+  * [neusta infrastructure services GmbH](https://www.neusta-is.de/), Bremen
+
 * **July 2020 - September 2025: Research Assistant**
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
