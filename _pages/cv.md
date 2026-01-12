@@ -15,7 +15,7 @@ redirect_from:
 Skills
 ======
 
-Tools/Frameworks: Docker, CI/CD, System Administration, Cloud Infrastructures, ROS
+Tools/Frameworks: Docker, CI/CD, Linux System Administration, Infrastructure as Code (Terraform), Configuration Management (Puppet), Cloud Infrastructure (AWS)
 
 Programming: Python, Java, C/C++, Prolog
 
@@ -30,7 +30,12 @@ Work Experience
 
 * **Since November 2025: System Administrator**
   * [neusta infrastructure services GmbH](https://www.neusta-is.de/), Bremen
-
+  * Duties included:
+    * Administering and maintaining Linux server systems
+    * Provisioning infrastructure using Terraform
+    * Managing system configuration and automation with Puppet
+    * Operating and maintaining AWS resources (e.g. EC2, IAM, networking)
+    
 * **July 2020 - September 2025: Research Assistant**
   * [Institute for Artificial Intelligence](https://ai.uni-bremen.de/), Bremen
   * Duties included:
