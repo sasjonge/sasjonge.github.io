@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-usd-knowrob
 excerpt: "We present a unified scene graph model that standardizes 3D scene formats and integrates them with robot ontologies to support actionable knowledge creation."
 date: 2025-05-01
-venue: "IEEE International Conference on Robotics and Automation (ICRA), 2025 (accepted)"
+venue: "IEEE International Conference on Robotics and Automation (ICRA), 2025"
 citation: "Nguyen, G., Pomarlan, M., Jongebloed, S., Leusmann, N., Beetz, M. 'Generating Actionable Robot Knowledge Bases by Combining 3D Scene Graphs with Robot Ontologies.' In IEEE International Conference on Robotics and Automation (ICRA), 2025. Accepted."
 ---
 
