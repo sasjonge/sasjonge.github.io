@@ -1,7 +1,7 @@
 ---
 title: "Cloud-based Digital Twin for Cognitive Robotics"
 collection: publications
-permalink: /publication/2023-preferences
+permalink: /publication/2024-cloud-digital-twin
 excerpt: 'The paper presents a novel cloud-based digital twin learning platform for teaching and training concepts of cognitive robotics.'
 date: 2024-10-04
 venue: 'IEEE Global Engineering Education Conference (EDUCON) 2024'
