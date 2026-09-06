@@ -65,6 +65,17 @@ Education
   * **Thesis**: [Subsumtionstest mittels SAT-Solver fur eine leichtgewichtige Beschreibungslogik mit Funktionalität](/bthesis.html)
   * **Advisor**: Prof. Dr. Thomas Schneider
 
+Certifications
+======
+
+* **AWS Certified Solutions Architect – Associate**
+  * **Date**: May 30, 2026
+  * Amazon Web Services
+
+* **AWS Certified Cloud Practitioner**
+  * **Date**: May 7, 2026
+  * Amazon Web Services
+
 Projects
 ======
 
